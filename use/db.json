@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "name": "Samsung ",
+      "price": "100000",
+      "image": "",
+      "id": 1
+    }
+  ]
+}
