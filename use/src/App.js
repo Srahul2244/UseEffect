@@ -30,7 +30,7 @@ function App() {
     setProducts(data);
   };
   useEffect(() => {
-    // inside as callback use
+    
     getData();
   }, []);
 
